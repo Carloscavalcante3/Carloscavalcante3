@@ -14,7 +14,7 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -22,7 +22,7 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/000000/sql.png" 
+    src="https://img.icons8.com/color/48/sql.png" 
 />
 <img 
     align="left" 
@@ -30,7 +30,7 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -38,7 +38,7 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
 />
 <img 
     align="left" 
@@ -46,7 +46,7 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -54,8 +54,9 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
+
 
 
 <br/>
