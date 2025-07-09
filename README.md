@@ -89,10 +89,12 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Excel" 
+    title="Microsoft Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" 
+/>
 
 </p>
