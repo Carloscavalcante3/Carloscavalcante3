@@ -56,7 +56,22 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Google Colab" 
+    title="Google Colab"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
+/>
 
 
 <br/>
