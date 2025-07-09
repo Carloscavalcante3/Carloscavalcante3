@@ -71,8 +71,11 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="Microsoft Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" 
 />
+
+
+
 
 <br/>
 <br/>
