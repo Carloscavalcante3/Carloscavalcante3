@@ -62,8 +62,9 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     title="Google Colab"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Colaboratory_Logo.svg" 
+    src="https://img.icons8.com/color/48/google-colab.png" 
 />
+
 <img 
     align="left" 
     alt="Excel" 
