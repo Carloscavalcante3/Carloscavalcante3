@@ -64,7 +64,6 @@ Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualment
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Colaboratory_Logo.svg" 
 />
-
 <img 
     align="left" 
     alt="Excel" 
