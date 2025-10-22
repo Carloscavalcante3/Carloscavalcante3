@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Carlos Cavalcante
 
-**`Cientista de Dados`**
+**`Desenvolvedor Python`** **`Engenheiro de Dados`**
 
 Me chamo Carlos Cavalcante, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CESAR School. Sou apaixonado por tecnologia e compartilho meu conhecimento através desse perfil no Github.
 
