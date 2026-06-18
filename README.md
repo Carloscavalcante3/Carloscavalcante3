@@ -8,11 +8,17 @@
   <img src="https://img.shields.io/badge/Em construção-6E6E6E?style=for-the-badge" />
 </p>
 
-# 👩🏻‍💻 Carlos Cavalcante
+# 👋 Olá! Eu sou Carlos Cavalcante
 
 **`Engenheiro de Dados`** **`Desenvolvedor Python`** 
 
-Me chamo Carlos Cavalcante, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CESAR School. Sou apaixonado por tecnologia e compartilho meu conhecimento através desse perfil no Github.
+**👩🏻‍💻 Sobre Mim**
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na Cesar School, com atuação prática em Engenharia de Dados.
+
+Desenvolvo e orquestro pipelines de dados escaláveis, unindo eficiência técnica e propósito. Trabalho com Python, Databricks, AWS, PostgreSQL, Airflow, Spark e Automação de processos por meio de scripts.
+
+Tenho experiência em modelagem, governança e qualidade de dados, além de trabalho em equipe, comunicação clara e foco em entregas de valor real. Na faculdade, participei ativamente de projetos de resolução de problemas reais para grandes empresas como Globo, Jornal do Comércio de Pernambuco e FH Data.
 
 ---
 
