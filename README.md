@@ -2,10 +2,9 @@
   <a href="https://www.linkedin.com/in/carlos-cavalcante3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://SEU-PORTFOLIO.COM" target="_blank">
+  <a href="https://carloscavalcante3.github.io/carreer-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/Em construção-6E6E6E?style=for-the-badge" />
 </p>
 
 # 👋 Olá! Eu sou Carlos Cavalcante
